@@ -1,0 +1,22 @@
+<resources>
+    <string translatable="false" name="app_name">BookCase</string>
+
+    <string-array name="bookArr">
+        <item>"Ender's Game</item>
+        <item>"My Brother Sam is Dead"</item>
+        <item>"The Martian"</item>
+        <item>"Among The Hidden"</item>
+        <item>"Ready Player One"</item>
+        <item>"One Flew Over The Cuckoo's Nest"</item>
+        <item>"The Book of Basketball"</item>
+        <item>"Fever 1793"</item>
+        <item>"The Road"</item>
+        <item>"Night"</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="download_txt">Download</string>
+    <string name="delete_txt">Delete</string>
+</resources>

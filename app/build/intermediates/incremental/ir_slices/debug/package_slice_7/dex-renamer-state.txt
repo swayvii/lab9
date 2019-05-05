@@ -1,0 +1,4 @@
+#Fri May 03 19:10:04 EDT 2019
+base.0=C\:\\Users\\simmy\\Downloads\\cis3515-lab9-bookcase3-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

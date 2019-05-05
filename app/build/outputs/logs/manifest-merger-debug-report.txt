@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\37e5988300bf53d1c06f4c34f4800a6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8899e64c7406fe7fa9e78e7676a972ab\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\36d196ca0de0ee34a616da9d19827a74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:2:1-14:12
+MERGED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e3a1eb845111978f400c9516df8c3d5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\85da571d4f60c364c01a78b01ebaa0f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\016482965c7ff199b4709dce34e72236\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\fe3268206f4fbf8c6a9f42fcf208f9bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\868c91ae5d402d68630c13adf009edf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4c2af8a8453445bde31a3bae0f82fe51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5bc48a25a7caaf4c17a76506a60afe2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ce48567da743238bb5a1cf2efa030293\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59fda359ecb74f27b414dfa16504bbea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\63ce7db6f53860ad20648d0e7cdcf235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a2291c60bc50fee55f3f0ea93e51d619\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7f772452ecdf697c178389a3fa442dde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\627a9cad82bcd323f689755fd82ffe13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b28dca9dc7ff535adae91165eff49a80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33524f3b1f4b5c770b64ade2467142e8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b2d49978b4ac516e2e42aa3c5f482b62\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\30193f0d41bbf23df9090414c5fddc74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\adfee7d42bb1bdaecddafac898b3cdc6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7051b7769728f97ce562a22094eb4b7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\60aa22d20a15d8135bff687846c33e73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ec3183ba3bd78b1c197b3594b93f26a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\86c16bf3818d8a07a77c22b6a36d5a57\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a11c87a096f324d7e9c8361346633527\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\cd1de45985c84c1acfa8babb58b29436\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\01e0b8bb7439f33b981ca9a4667a4f04\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\82bfcabd45ec6bc800e143ff17f1a53a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0739ee5c545b1740be1356761994b579\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8899e64c7406fe7fa9e78e7676a972ab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8899e64c7406fe7fa9e78e7676a972ab\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:7:5-12:19
+MERGED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:14:5-25:19
+MERGED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:14:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33524f3b1f4b5c770b64ade2467142e8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33524f3b1f4b5c770b64ade2467142e8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b2d49978b4ac516e2e42aa3c5f482b62\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b2d49978b4ac516e2e42aa3c5f482b62\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33524f3b1f4b5c770b64ade2467142e8\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.bookcase.MainActivity
+ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:21:5-83
+MERGED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:11:5-67
+MERGED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml:21:22-64
+uses-sdk
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\37e5988300bf53d1c06f4c34f4800a6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\37e5988300bf53d1c06f4c34f4800a6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8899e64c7406fe7fa9e78e7676a972ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8899e64c7406fe7fa9e78e7676a972ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\36d196ca0de0ee34a616da9d19827a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\36d196ca0de0ee34a616da9d19827a74\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:5:5-44
+MERGED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:7:5-9:41
+MERGED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e3a1eb845111978f400c9516df8c3d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e3a1eb845111978f400c9516df8c3d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\85da571d4f60c364c01a78b01ebaa0f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\85da571d4f60c364c01a78b01ebaa0f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\016482965c7ff199b4709dce34e72236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\016482965c7ff199b4709dce34e72236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\fe3268206f4fbf8c6a9f42fcf208f9bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\fe3268206f4fbf8c6a9f42fcf208f9bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\868c91ae5d402d68630c13adf009edf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\868c91ae5d402d68630c13adf009edf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4c2af8a8453445bde31a3bae0f82fe51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\4c2af8a8453445bde31a3bae0f82fe51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5bc48a25a7caaf4c17a76506a60afe2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5bc48a25a7caaf4c17a76506a60afe2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ce48567da743238bb5a1cf2efa030293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ce48567da743238bb5a1cf2efa030293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59fda359ecb74f27b414dfa16504bbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59fda359ecb74f27b414dfa16504bbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\63ce7db6f53860ad20648d0e7cdcf235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\63ce7db6f53860ad20648d0e7cdcf235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a2291c60bc50fee55f3f0ea93e51d619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a2291c60bc50fee55f3f0ea93e51d619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7f772452ecdf697c178389a3fa442dde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7f772452ecdf697c178389a3fa442dde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\627a9cad82bcd323f689755fd82ffe13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\627a9cad82bcd323f689755fd82ffe13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b28dca9dc7ff535adae91165eff49a80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\b28dca9dc7ff535adae91165eff49a80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33524f3b1f4b5c770b64ade2467142e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33524f3b1f4b5c770b64ade2467142e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b2d49978b4ac516e2e42aa3c5f482b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b2d49978b4ac516e2e42aa3c5f482b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\30193f0d41bbf23df9090414c5fddc74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\30193f0d41bbf23df9090414c5fddc74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\adfee7d42bb1bdaecddafac898b3cdc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\adfee7d42bb1bdaecddafac898b3cdc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7051b7769728f97ce562a22094eb4b7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7051b7769728f97ce562a22094eb4b7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\60aa22d20a15d8135bff687846c33e73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\60aa22d20a15d8135bff687846c33e73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ec3183ba3bd78b1c197b3594b93f26a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ec3183ba3bd78b1c197b3594b93f26a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\86c16bf3818d8a07a77c22b6a36d5a57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\86c16bf3818d8a07a77c22b6a36d5a57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a11c87a096f324d7e9c8361346633527\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a11c87a096f324d7e9c8361346633527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\cd1de45985c84c1acfa8babb58b29436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\cd1de45985c84c1acfa8babb58b29436\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\01e0b8bb7439f33b981ca9a4667a4f04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\01e0b8bb7439f33b981ca9a4667a4f04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\82bfcabd45ec6bc800e143ff17f1a53a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\82bfcabd45ec6bc800e143ff17f1a53a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0739ee5c545b1740be1356761994b579\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0739ee5c545b1740be1356761994b579\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simmy\Downloads\cis3515-lab9-bookcase3-master\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f2114515eadf944df9897bdc507f234b\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:12:22-74
+service#edu.temple.audiobookplayer.AudiobookService
+ADDED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:21:9-24:39
+	android:enabled
+		ADDED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:23:13-35
+	android:exported
+		ADDED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from [:audiobook-player] C:\Users\simmy\.gradle\caches\transforms-1\files-1.1\audiobook-player.aar\52a30dc2ce72fec7207b7f6ca786162c\AndroidManifest.xml:22:13-71
